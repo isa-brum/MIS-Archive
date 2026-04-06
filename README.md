@@ -11,12 +11,15 @@ Inspirado no Museu da Imagem e do Som de Campinas, o projeto apresenta os bastid
 ## Previews
 
 <p align="center">
-  <img src="Simulator%20Screenshot%20-%20iPad%20Air%2011-inch%20(M3)%20-%202026-02-27%20at%2023.18.49.png" width="16%" />
-  <img src="Simulator%20Screenshot%20-%20iPad%20Air%2011-inch%20(M3)%20-%202026-02-27%20at%2023.18.59.png" width="16%" />
-  <img src="Simulator%20Screenshot%20-%20iPad%20Air%2011-inch%20(M3)%20-%202026-02-27%20at%2023.19.03.png" width="16%" />
-  <img src="Simulator%20Screenshot%20-%20iPad%20Air%2011-inch%20(M3)%20-%202026-02-27%20at%2023.19.54.png" width="16%" />
-  <img src="Simulator%20Screenshot%20-%20iPad%20Air%2011-inch%20(M3)%20-%202026-03-29%20at%2013.18.30.png" width="16%" />
-  <img src="Simulator%20Screenshot%20-%20iPad%20Air%2011-inch%20(M3)%20-%202026-02-27%20at%2023.20.40.png" width="16%" />
+  <img src="Simulator%20Screenshot%20-%20iPad%20Air%2011-inch%20(M3)%20-%202026-02-27%20at%2023.18.49.png" width="30%" />
+  <img src="Simulator%20Screenshot%20-%20iPad%20Air%2011-inch%20(M3)%20-%202026-02-27%20at%2023.18.59.png" width="30%" />
+  <img src="Simulator%20Screenshot%20-%20iPad%20Air%2011-inch%20(M3)%20-%202026-02-27%20at%2023.19.03.png" width="30%" />
+</p>
+
+<p align="center">
+  <img src="Simulator%20Screenshot%20-%20iPad%20Air%2011-inch%20(M3)%20-%202026-02-27%20at%2023.19.54.png" width="30%" />
+  <img src="Simulator%20Screenshot%20-%20iPad%20Air%2011-inch%20(M3)%20-%202026-03-29%20at%2013.18.30.png" width="30%" />
+  <img src="Simulator%20Screenshot%20-%20iPad%20Air%2011-inch%20(M3)%20-%202026-02-27%20at%2023.20.40.png" width="30%" />
 </p>
 
 ---
