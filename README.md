@@ -18,7 +18,7 @@ Ao longo da experiência, tarefas simples e urgentes se misturam a situações i
 
 ## Processo e Diferencial
 
-O principal diferencial de MIS Archive está na integração entre o analógico e o digital:
+O principal diferencial de MIS Archive está na integração entre o meios físicos e digitais:
 
 - Cenários construídos manualmente em miniatura  
 - Uso de papelão  
