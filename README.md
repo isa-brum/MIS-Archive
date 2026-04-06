@@ -1,5 +1,4 @@
 # MIS Archive
- MIS Archive
 © 2026 Isabella Brum. All rights reserved.
 ---
 **MIS Archive** é um jogo experimental que explora a preservação da memória audiovisual por meio de uma experiência interativa, vencedor do Apple Swift Student Challenge 2026 🏆.
