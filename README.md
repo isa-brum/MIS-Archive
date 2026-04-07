@@ -67,6 +67,7 @@ O projeto busca evidenciar a importância da preservação da memória audiovisu
 - Blender  
 - Adobe Photoshop  
 - Adobe Illustrator  
-- Adobe XD  
+- Adobe XD
+- Font Forge
 - Impressão 3D  
 - Corte a laser  
