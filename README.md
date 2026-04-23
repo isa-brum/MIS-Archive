@@ -1,5 +1,6 @@
 # MIS Archive
 © 2026 Isabella Brum. All rights reserved.
+Available on app store (for iPad): https://apps.apple.com/app/mis-archive/id6761542968 
 
 
 ## Sobre
